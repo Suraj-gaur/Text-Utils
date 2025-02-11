@@ -2,17 +2,51 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine.
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   ```
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd your-repo-name
+   ```
+
+3. **Install the dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+### Running the Application
+
+4. **Start the development server:**
+
+   ```bash
+   npm start
+   ```
+
+   Runs the app in the development mode.\
+   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+   The page will reload when you make changes.\
+   You may also see any lint errors in the console.
+
 ## Available Scripts
 
 In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
